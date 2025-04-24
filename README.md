@@ -13,7 +13,7 @@ The First Dashboard
 ![](First_Dashboard.JPG)
 
 The Second Dashboard
-![](First_Dashboard.JPG)
+![](Second_Dashboard.JPG)
 
 ### 2. Core29 Business Intelligence Dashboard: Visualizing Workload, Project Status & Customer Engagement
 

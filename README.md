@@ -10,10 +10,10 @@ Using Power Bi to analyze usage data from Cyclistic, a bike-share program in Chi
 [Cyclistic Analysis Report](https://drive.google.com/file/d/1Jo5w2xFfAXT4jXYzVAfHxwdSZabav3LT/view?usp=sharing)
 
 The First Dashboard
-![](First Dashboard.JPG)
+![](First_Dashboard.JPG)
 
 The Second Dashboard
-![](Second Dashboard.JPG)
+![](Second_Dashboard.JPG)
 
 ### 2. Core29 Business Intelligence Dashboard: Visualizing Workload, Project Status & Customer Engagement
 
@@ -49,7 +49,7 @@ This project analyzes four years of motor insurance data to uncover patterns in 
 This project involved designing and documenting a relational database system for managing a community center's operations. The database tracks rooms, scheduled activities, instructors, members, time slots, and bookings. It includes six core tables—Room, Instructor, Activity, Member, Slot, and Booking. Each with defined attributes, constraints, and relationships. Foreign keys enforce referential integrity, and default values ensure data consistency. The schema enables efficient scheduling, member registration, and resource management. Comprehensive data dictionary documentation outlines the structure and purpose of each table. This system supports streamlined administration and improved service delivery within the community facility.
 
 Entity-Relationship Diagram)
-# ![](EER Diagram.JPG)
+![](EER_Diagram.JPG)
 
 Database Schema Documentation
 [Documentation](https://drive.google.com/file/d/1Jo5w2xFfAXT4jXYzVAfHxwdSZabav3LT/view?usp=sharing)

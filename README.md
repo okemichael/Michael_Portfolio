@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst Portfolio
 
 ### Technical Skills: Advanced Microsoft Excel, SQL, Python, Power Bi, SPSS
 

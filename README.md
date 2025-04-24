@@ -4,9 +4,9 @@
 
 ## Projects
 ## 1. Cyclistic Bike-Share: Data-Driven Strategy to Convert Casual Riders into Members
-Tool Use: PowerBi
+Tool Use: PowerBi and Microsoft Excel
 
-Using Power Bi to analyze usage data from Cyclistic, a bike-share program in Chicago, to understand the behavioral differences between casual riders and annual members. By examining patterns in ride duration, time of day, and station usage. To uncovered key insights that informed a targeted marketing strategy aimed at converting casual riders into loyal members.. The goal was to increase membership conversions, and the final recommendations were supported by compelling visualizations and data-driven storytelling for executive approval.
+This project analyzes bike usage patterns of Cyclistic’s casual riders and annual members to support a data-driven marketing strategy aimed at increasing memberships. Using Excel and Power BI, 12 months of 2023 ride data (5.7 million rows) were cleaned, merged, and analyzed. Key insights revealed that members ride more frequently but casual riders take longer rides, especially on weekends. Casual riders prefer electric bikes, while members often use classic bikes. Usage peaks at 5pm daily and during fall. The goal was to increase membership conversions, and the final recommendations were supported by compelling visualizations and data-driven storytelling for executive approval. Recommendations include weekday discounts, seasonal promotions, and targeting high-demand times and locations to convert casual riders into loyal members.
 
 [Cyclistic Analysis Report](https://drive.google.com/file/d/1Jo5w2xFfAXT4jXYzVAfHxwdSZabav3LT/view?usp=sharing)
 
@@ -57,4 +57,4 @@ Entity-Relationship Diagram)
 ![](EER_Diagram.JPG)
 
 Database Schema Documentation
-[Documentation](https://drive.google.com/file/d/1Jo5w2xFfAXT4jXYzVAfHxwdSZabav3LT/view?usp=sharing)
+[Documentation](https://drive.google.com/file/d/1Ba1eaLlKRqjcKA_2DkeSOoNPA1VGl8r6/view?usp=sharing)

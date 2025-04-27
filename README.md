@@ -45,7 +45,7 @@ Tool use: Google Colab
 This project analyzes four years of motor insurance data to uncover patterns in claims and premiums. By cleaning, merging, and transforming two datasets, the study evaluates customer risk using incurred claim ratios. Key insights include vehicle type, area, premium value, and claims history. The result enables insurers to optimize pricing, detect fraud, and enhance financial planning, ultimately reducing solvency risk and improving portfolio management.
 
 ### Claims Management Python Code
-[Python Code](https://htmtopdf.herokuapp.com/ipynbviewer/temp/ab6b5b67e34446abe2928e61a4f78857/Claims%20Managementt.ipynb.html?t=1745464334605)
+[Python Code](https://colab.research.google.com/drive/1zLqNbBHJhsWQ0pKn253PqWS5R_4ICJ5H?usp=sharing)
 
 
 ## 5. Community Facility Database Design and Documentation

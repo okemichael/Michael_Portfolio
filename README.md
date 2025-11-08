@@ -66,3 +66,6 @@ Tool use: Python (Jupyter Notebook)
 As a Data Analyst, I carried out a research project that developed and validated advanced machine learning models (Random Forest, XGBoost, and Deep Neural Networks) to predict lung cancer survival using integrated SEER and TCGA clinical datasets. The project introduced a dual-framework approach (3-Class and Multi-Timepoint), improving prognostic precision across short-, intermediate-, and long-term survival outcomes.
 By integrating SHAP-based explainability, I enhanced clinical transparency and interpretability, highlighting Treatment Type and Tumour Stage as the most significant survival predictors. My recommendation focused on the phased deployment of AI-assisted prognostic tools within oncology centres, enabling clinicians to make more confident, data-driven decisions in treatment planning and patient counselling.
 This research established a strong foundation for AI integration in precision medicine, supporting more personalized care, better allocation of medical resources, and the design of survivorship planning tools. The framework sets the stage for future integration of molecular profiling and imaging data to further enhance predictive accuracy.
+
+### Lung Cancer Survival Prediction Python Code
+[Python Code](https://nbviewer.org/github/okemichael/Michael_Portfolio/blob/main/Lung_cancer_prediction.ipynb)
